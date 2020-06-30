@@ -1,0 +1,10 @@
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\bin\Debug\myfirstproject2.exe.config
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\bin\Debug\myfirstproject2.exe
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\bin\Debug\myfirstproject2.pdb
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\obj\Debug\myfirstproject2.csprojAssemblyReference.cache
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\obj\Debug\myfirstproject2.Form1.resources
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\obj\Debug\myfirstproject2.Properties.Resources.resources
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\obj\Debug\myfirstproject2.csproj.GenerateResource.cache
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\obj\Debug\myfirstproject2.csproj.CoreCompileInputs.cache
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\obj\Debug\myfirstproject2.exe
+C:\Users\noahd\source\repos\myfirstproject2\myfirstproject2\obj\Debug\myfirstproject2.pdb
